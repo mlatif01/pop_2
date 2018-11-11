@@ -14,7 +14,7 @@ public class Main {
         while (true) {
             userInput = in.next();
             // Type 'x' to quit input scanner
-            if ("x".equals(userInput)) {
+            if ("exit()".equals(userInput)) {
                 break;
             } else {
                 words.add(userInput);
