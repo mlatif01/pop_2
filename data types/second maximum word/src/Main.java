@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Map<String, Integer> map = new HashMap<String, Integer>();
+        List<String> words = new ArrayList<>();
         Scanner in = new Scanner(System.in);
         String userInput;
 
@@ -15,19 +15,16 @@ public class Main {
             if ("exit()".equals(userInput)) {
                 break;
             } else {
-                if (!map.containsKey(userInput)) {
-                    map.put(userInput, 1);
-                } else {
-                    map.remove(userInput);
+                if (!words.contains(userInput)) {
+                    words.add(userInput);
                 }
             }
         }
 
-        List<String> sorted = new ArrayList<>(map.keySet());
-        Collections.sort(sorted);
-        System.out.println(sorted);
-        System.out.println(sorted.get(1));
+        Collections.sort(words);
+        System.out.println(words);
+        System.out.println(words.get(words.size()-2));
+
+        }
+
     }
-
-
-}
