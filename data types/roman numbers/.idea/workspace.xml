@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af66f574-d82a-42de-ac2f-cf34c44b84e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../control/classification of characters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../control/classification of characters/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../control/multiplication table/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../control/multiplication table/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../control/number of digits (1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../control/number of digits (1)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../control/number of digits/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../control/numbers in an interval/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../control/numbers in an interval/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../control/numbers in an interval/out/production/numbers in an interval/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../control/numbers in an interval/out/production/numbers in an interval/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../control/numbers in an interval/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../control/numbers in an interval/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../control/top to bottom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../control/top to bottom/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversing words/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reversing words/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversing words/out/production/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../reversing words/out/production/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversing words/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reversing words/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rhombus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rhombus/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second maximum word/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../second maximum word/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second maximum word/out/production/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../second maximum word/out/production/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second maximum word/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../second maximum word/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../triangle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../triangle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../triangle/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../triangle/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/add one second/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/add one second/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/add one second/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/add one second/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/intervals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/intervals/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/max of three integers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/max of three integers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/temperatures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/temperatures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/time decomposition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/time decomposition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/time decomposition/out/production/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/time decomposition/out/production/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/time decomposition/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/time decomposition/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +42,11 @@
     <session id="-654274995">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -35,12 +63,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2299" />
+          <entry key="java" value="2407" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2299" />
+          <entry key="JAVA" value="2407" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -54,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="174">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,8 +117,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="942" />
-    <option name="width" value="985" />
+    <option name="x" value="-9" />
+    <option name="width" value="994" />
     <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -99,6 +127,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,14 +145,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541955016252" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../control" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542814490619" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../classes/poker face" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -165,16 +193,19 @@
       <updated>1541947725281</updated>
       <workItem from="1541947728775" duration="6808000" />
       <workItem from="1541976967001" duration="63000" />
+      <workItem from="1542200796634" duration="1807000" />
+      <workItem from="1542811603353" duration="1333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6871000" />
+    <option name="totallyTimeSpent" value="10011000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="754" y="0" width="788" height="831" extended-state="0" />
+    <frame x="-7" y="0" width="795" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24313186" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1292517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -223,8 +254,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="174">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

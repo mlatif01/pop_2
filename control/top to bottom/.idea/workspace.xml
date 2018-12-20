@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc17c2a0-e7db-4e13-b91a-1d3461986299" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../classification of characters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../classification of characters/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../number of digits/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/reversing words/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/reversing words/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/reversing words/out/production/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/reversing words/out/production/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/reversing words/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/reversing words/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/rhombus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/rhombus/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../data types/roman numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/roman numbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/roman numbers/out/production/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/roman numbers/out/production/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/roman numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/roman numbers/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/second maximum word/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/second maximum word/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/second maximum word/out/production/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/second maximum word/out/production/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/second maximum word/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/second maximum word/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/triangle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/triangle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/triangle/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/triangle/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/add one second/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/add one second/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/add one second/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/add one second/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/max of three integers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/max of three integers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/temperatures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/temperatures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/time decomposition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/time decomposition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/time decomposition/out/production/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/time decomposition/out/production/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/time decomposition/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/time decomposition/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,9 +35,10 @@
     <session id="2116307818">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,12 +68,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="289">
+              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,9 +107,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="942" />
-    <option name="width" value="985" />
-    <option name="height" value="1039" />
+    <option name="x" value="-8" />
+    <option name="width" value="993" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -98,7 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,12 +136,14 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541981063247" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542203275162" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../numbers in an interval" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -162,43 +184,44 @@
       <option name="presentableId" value="Default" />
       <updated>1541977944108</updated>
       <workItem from="1541977951794" duration="3531000" />
+      <workItem from="1542203251731" duration="77000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3531000" />
+    <option name="totallyTimeSpent" value="3608000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="754" y="0" width="788" height="831" extended-state="0" />
+    <frame x="-6" y="0" width="794" height="830" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.253406" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295129" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32855093" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295129" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,8 +233,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="289">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

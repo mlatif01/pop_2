@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30c34980-038c-4e9d-b34d-bc3c094bea89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../number of digits/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/reversing words/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/reversing words/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/reversing words/out/production/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/reversing words/out/production/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/reversing words/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/reversing words/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/rhombus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/rhombus/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../data types/roman numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/roman numbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/roman numbers/out/production/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/roman numbers/out/production/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/roman numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/roman numbers/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/second maximum word/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/second maximum word/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/second maximum word/out/production/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/second maximum word/out/production/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/second maximum word/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/second maximum word/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/triangle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/triangle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data types/triangle/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../data types/triangle/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/add one second/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/add one second/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/add one second/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/add one second/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/max of three integers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/max of three integers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/temperatures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/temperatures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/time decomposition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/time decomposition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/time decomposition/out/production/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/time decomposition/out/production/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introduction/time decomposition/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../introduction/time decomposition/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,19 +34,20 @@
     <session id="-1277530606">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -43,12 +63,23 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../top to bottom/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,9 +113,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="942" />
-    <option name="width" value="985" />
-    <option name="height" value="1039" />
+    <option name="x" value="-8" />
+    <option name="width" value="993" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -113,6 +144,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541977896295" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../top to bottom" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -153,43 +185,44 @@
       <option name="presentableId" value="Default" />
       <updated>1541977028771</updated>
       <workItem from="1541977031518" duration="917000" />
+      <workItem from="1542203156069" duration="94000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="917000" />
+    <option name="totallyTimeSpent" value="1011000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="754" y="0" width="788" height="831" extended-state="0" />
+    <frame x="-6" y="0" width="794" height="830" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2541209" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11716621" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295129" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32855093" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295129" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +235,16 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../top to bottom/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
